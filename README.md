@@ -18,6 +18,8 @@ External dependencies
 	<br>from_bplist.py:
 	<br>	easy_install biplist
 	<br>	https://github.com/hay/xml2json
+        <br>to_hex:
+        <br>	easy_install hexdump
 
 Install steps:
 <br>	Install external dependencies (see above)
