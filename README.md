@@ -1,3 +1,5 @@
+This is no longer actively maintained - highly recommend deprecating use in favor of https://gchq.github.io/CyberChef/ . Another promising CLI-based alternative is https://github.com/UltimateHackers/Decodify .
+
 # PFM
 
 PFM is a data manipulation tool for security analysts and incident responders. A core capability is the ability to "chain" data manipulation modules to speed analyst workflow and improve local data handling procedures (eg. not using
